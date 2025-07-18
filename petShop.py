@@ -1,6 +1,6 @@
 import requests
 
-pet_id = 180720251300
+pet_id = 180720251400
 pet_name = "pisec_obiknovenniy"
 pet_status = "last_chance"
 
